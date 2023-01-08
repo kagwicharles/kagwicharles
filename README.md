@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Charles Theuri</h1>
-<h3 align="center">A passionate android and web developer from Kenya</h3>
+<h1 align="center">Hi 👋, I'm Charles Kagwi</h1>
+<h3 align="center">A passionate Mobile and Web developer from Kenya</h3>
 
-- 🔭 I’m currently working on [Smart Afya](https://smartafya2.herokuapp.com/)
+- 🔭 I’m currently working on [Smart Afya](https://smartafya-omyjkuyjfa-uc.a.run.app/)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://kagwicharles.github.io/](https://kagwicharles.github.io/)
 
-- 💬 Ask me about **Java, Kotlin, Android, React**
+- 💬 Ask me about **Java, Kotlin, Flutter, React**
 
 - 📫 How to reach me **kagwitheuri@gmail.com**
 
