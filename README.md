@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Charles Kagwi</h1>
-<h3 align="center">A passionate Mobile and Web developer from Nairobi, Kenya</h3>
+<h3 align="center">A Software engineer from Nairobi, Kenya</h3>
 
 - 🔭 I’m currently working on [Smart Afya](https://smartafya-omyjkuyjfa-uc.a.run.app/)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Web3**
 
 - 👨‍💻 All of my projects are available at [https://kagwicharles.github.io/](https://kagwicharles.github.io/)
 
-- 💬 Ask me about **Java, Kotlin, Flutter, React**
+- 💬 Ask me about **Flutter, Dart, Web3**
 
 - 📫 How to reach me **kagwitheuri@gmail.com**
 
