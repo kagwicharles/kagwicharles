@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles Kagwi</h1>
 <h3 align="center">A Software engineer from Nairobi, Kenya</h3>
 
-- 🔭 I’m currently working on [Smart Afya](https://smartafya-omyjkuyjfa-uc.a.run.app/)
+- 🔭 I’m currently working on Several Mobile Banking Apps
 
 - 🌱 I’m currently learning **Web3**
 
