@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charles Kagwi</h1>
-<h3 align="center">A Software engineer from Nairobi, Kenya</h3>
+<h3 align="center">A Senior mobile developer from Nairobi, Kenya</h3>
 
 - 🔭 I’m currently working on Several Mobile Banking Apps
 
