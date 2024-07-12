@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently developing banking apps
 
-- 👨‍💻 All of my projects are available at [https://kagwicharles.github.io/](https://kagwicharles.github.io/)
-
 - 💬 Ask me about **Flutter, Dart, Go**
 
 - 📫 How to reach me **kagwitheuri@gmail.com**
