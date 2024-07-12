@@ -15,7 +15,7 @@
 <a href="https://twitter.com/charles_kagwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charles_kagwi" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Built below apps:</h3>
+<h3>Built below apps:</h3>
 - <a href="https://play.google.com/store/apps/details?id=com.craftsilicon.tsedeybnk&hl=en_US">Tsedey Banking App</a>
 - <a href="https://play.google.com/store/apps/details?id=com.craftsilicon.visionfundbnk&hl=en_US">VisionFund Banking App</a>
 - <a href="https://play.google.com/store/apps/details?id=com.craftsilicon.mupecibnk&hl=en_US">Mupeci Banking App</a>
