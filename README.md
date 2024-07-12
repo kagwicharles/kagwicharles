@@ -19,9 +19,3 @@
 - <a href="https://play.google.com/store/apps/details?id=com.craftsilicon.visionfundbnk&hl=en_US">VisionFund Banking App</a>
 - <a href="https://play.google.com/store/apps/details?id=com.craftsilicon.mupecibnk&hl=en_US">Mupeci Banking App</a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a </p>
