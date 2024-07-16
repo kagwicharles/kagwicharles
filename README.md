@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Charles Kagwi</h1>
-<h3 align="center">Software engineer building banking solutions</h3>
 
 - 🔭 I’m currently developing banking apps
 
