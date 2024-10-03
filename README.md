@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Charles Kagwi</h1>
+<h1 align="center">Hi 👋, I'm Theuri Kagwi</h1>
 
 - 🔭 I’m currently developing banking apps
 
