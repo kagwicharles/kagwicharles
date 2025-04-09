@@ -16,5 +16,5 @@
 <p>
 - <a href="https://play.google.com/store/apps/details?id=com.craftsilicon.tsedeybnk&hl=en_US">Tsedey Banking App</a>
 - <a href="https://play.google.com/store/apps/details?id=com.craftsilicon.visionfundbnk&hl=en_US">VisionFund Banking App</a>
-- <a href="https://play.google.com/store/apps/details?id=com.craftsilicon.mupecibnk&hl=en_US">Mupeci Banking App</a>
+- <a href="https://play.google.com/store/apps/details?id=com.craftsilicon.kunity&hl=en">K-Unity Sacco App</a>
 </p>
