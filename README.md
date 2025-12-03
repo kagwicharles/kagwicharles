@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Theuri Kagwi</h1>
 
-- 🔭 I’m currently developing banking apps
+- 🔭 I’m currently building apps around credit lending and banking.
 
-- 💬 Ask me about **Flutter, Dart, Go**
+- 💬 Ask me about **Flutter, Dart, Typescript**
 
 - 📫 How to reach me **kagwitheuri@gmail.com**
 
@@ -15,6 +15,6 @@
 <h3>Built below apps:</h3>
 <p>
 - <a href="https://play.google.com/store/apps/details?id=com.craftsilicon.tsedeybnk&hl=en_US">Tsedey Banking App</a>
-- <a href="https://play.google.com/store/apps/details?id=com.craftsilicon.visionfundbnk&hl=en_US">VisionFund Banking App</a>
+- <a href="https://play.google.com/store/apps/details?id=com.technest.kbokolea&hl=en">KOPASMART</a>
 - <a href="https://play.google.com/store/apps/details?id=com.craftsilicon.kunity&hl=en">K-Unity Sacco App</a>
 </p>
