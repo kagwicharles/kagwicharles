@@ -31,18 +31,4 @@ Along the way I picked up TypeScript for the backend pieces that needed to be re
 
 ---
 
-### 📊 Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theurikagwi&show_icons=true&count_private=true&hide_border=true&theme=default&include_all_commits=true" alt="GitHub stats" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theurikagwi&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theurikagwi&hide_border=true&theme=default" alt="GitHub streak" />
-</p>
-
----
-
 `kagwitheuri@gmail.com`
