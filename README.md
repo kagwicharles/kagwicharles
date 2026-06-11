@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer · Flutter · TypeScript · C#</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/charleskagwi" target="_blank">
+  <a href="https://linkedin.com/in/theurikagwi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="24" width="32" alt="LinkedIn" />
   </a>
   &nbsp;
