@@ -44,6 +44,20 @@ Credit operations teams need dashboards, approval queues, and reporting tools th
 
 ---
 
+### 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theurikagwi&show_icons=true&count_private=true&hide_border=true&theme=default&hide_title=false&include_all_commits=true" alt="GitHub stats" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theurikagwi&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Top languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theurikagwi&hide_border=true&theme=default" alt="GitHub streak" />
+</p>
+
+---
+
 ### 📬 Let's talk
 
 If you're working on fintech, mobile, or need someone who can cover the stack from mobile client to backend service to ops tooling — reach out.
