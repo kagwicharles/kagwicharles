@@ -1,5 +1,5 @@
 <h1 align="center">Theuri Kagwi</h1>
-<h3 align="center">Software Developer · Flutter · TypeScript · C#</h3>
+<h3 align="center">Flutter · TypeScript · C#</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/theurikagwi" target="_blank">
@@ -15,39 +15,26 @@
 
 ---
 
-I build things that end up in people's pockets — mobile apps for banking and credit lending, real-time backend services, and the internal web tooling that keeps operations running. My stack has grown deliberately over the years: Flutter and Dart for cross-platform mobile, TypeScript for anything that needs to move fast and stay reliable on the server, and C# for the internal portals and dashboards that non-technical teams actually use day-to-day.
+I've spent most of my career in fintech — building mobile apps that handle real money for real people, mostly in East Africa. Flutter became my main tool because it works, ships fast, and survives on the kinds of devices and connections most of my users actually have.
 
-I'm currently deep in fintech — credit scoring flows, lending journeys, and the kind of banking UX that has to work on a slow connection in the middle of nowhere.
-
----
-
-### 🛠 How my skills stack up
-
-**Mobile (Flutter / Dart)**  
-My primary craft. I've taken Flutter apps from first commit to Play Store on multiple occasions — building full lending and banking experiences, handling state management at scale, integrating SDKs, and tuning for performance on low-end Android devices. Flutter is where I've accumulated the most reps.
-
-**Real-time Services (TypeScript / Node.js)**  
-I write backend services in TypeScript when latency and reliability matter: WebSocket-based real-time features, event-driven flows, REST and integrations with third-party financial APIs. Type safety isn't optional when money moves through your code.
-
-**Internal Web Tooling (C# / .NET)**  
-Credit operations teams need dashboards, approval queues, and reporting tools that actually hold up under daily use. I build these with C# — pragmatic, maintainable, and designed for people who aren't developers.
+Along the way I picked up TypeScript for the backend pieces that needed to be reliable under pressure, and C# for the internal dashboards that operations teams live in every day. The stack grew out of necessity, not preference — each tool earned its place.
 
 ---
 
-### 📱 Apps shipped
+### A few things I've shipped
 
-| App | Description |
-|-----|-------------|
-| [Tsedey Banking App](https://play.google.com/store/apps/details?id=com.craftsilicon.tsedeybnk&hl=en_US) | Full-featured mobile banking for Tsedey Bank (Ethiopia) |
-| [KOPASMART](https://play.google.com/store/apps/details?id=com.technest.kbokolea&hl=en) | Digital SACCO lending and savings platform |
-| [K-Unity Sacco App](https://play.google.com/store/apps/details?id=com.craftsilicon.kunity&hl=en) | Mobile banking and loan management for K-Unity SACCO |
+| App | |
+|-----|-|
+| [Tsedey Banking App](https://play.google.com/store/apps/details?id=com.craftsilicon.tsedeybnk&hl=en_US) | Mobile banking · Tsedey Bank, Ethiopia |
+| [KOPASMART](https://play.google.com/store/apps/details?id=com.technest.kbokolea&hl=en) | Lending & savings · SACCO platform |
+| [K-Unity Sacco App](https://play.google.com/store/apps/details?id=com.craftsilicon.kunity&hl=en) | Mobile banking · K-Unity SACCO |
 
 ---
 
 ### 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theurikagwi&show_icons=true&count_private=true&hide_border=true&theme=default&hide_title=false&include_all_commits=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theurikagwi&show_icons=true&count_private=true&hide_border=true&theme=default&include_all_commits=true" alt="GitHub stats" height="165" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theurikagwi&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Top languages" height="165" />
 </p>
@@ -57,9 +44,5 @@ Credit operations teams need dashboards, approval queues, and reporting tools th
 </p>
 
 ---
-
-### 📬 Let's talk
-
-If you're working on fintech, mobile, or need someone who can cover the stack from mobile client to backend service to ops tooling — reach out.
 
 `kagwitheuri@gmail.com`
