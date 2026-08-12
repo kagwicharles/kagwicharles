@@ -1,5 +1,5 @@
 <h1 align="center">Theuri Kagwi</h1>
-<h3 align="center">Flutter · TypeScript · C#</h3>
+<h3 align="center">Flutter · ASP.NET · C# · PostgreSQL · EF Core</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/theurikagwi" target="_blank">
@@ -15,19 +15,17 @@
 
 ---
 
-I've spent most of my career in fintech — building mobile apps that handle real money for real people, mostly in East Africa. Flutter became my main tool because it works, ships fast, and survives on the kinds of devices and connections most of my users actually have.
-
-Along the way I picked up TypeScript for the backend pieces that needed to be reliable under pressure, and C# for the internal dashboards that operations teams live in every day. The stack grew out of necessity, not preference — each tool earned its place.
+Software Engineer building **fintech products end to end** — from Flutter mobile applications to ASP.NET APIs, PostgreSQL databases, and the systems behind them.
 
 ---
 
 ### A few things I've shipped
 
-| App | |
-|-----|-|
+| App                                                                                                     |                                        |
+| ------------------------------------------------------------------------------------------------------- | -------------------------------------- |
 | [Tsedey Banking App](https://play.google.com/store/apps/details?id=com.craftsilicon.tsedeybnk&hl=en_US) | Mobile banking · Tsedey Bank, Ethiopia |
-| [KOPASMART](https://play.google.com/store/apps/details?id=com.technest.kbokolea&hl=en) | Lending & savings · SACCO platform |
-| [K-Unity Sacco App](https://play.google.com/store/apps/details?id=com.craftsilicon.kunity&hl=en) | Mobile banking · K-Unity SACCO |
+| [KOPASMART](https://play.google.com/store/apps/details?id=com.technest.kbokolea&hl=en)                  | Lending & savings · SACCO platform     |
+| [K-Unity Sacco App](https://play.google.com/store/apps/details?id=com.craftsilicon.kunity&hl=en)        | Mobile banking · K-Unity SACCO         |
 
 ---
 
